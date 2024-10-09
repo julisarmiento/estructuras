@@ -9,6 +9,7 @@ public class PhoneBook
 {
     // instance variables - replace the example below with your own
     private int x;
+    private int pepe;
 
     /**
      * Constructor for objects of class PhoneBook
