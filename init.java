@@ -1,4 +1,4 @@
-public class Init {
+public class PhoneBook {
 
   
 }
